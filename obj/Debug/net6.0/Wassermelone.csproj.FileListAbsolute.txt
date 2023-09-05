@@ -1,0 +1,15 @@
+C:\Users\danie\Documents\GitHub\Wassermelone\bin\Debug\net6.0\Wassermelone.exe
+C:\Users\danie\Documents\GitHub\Wassermelone\bin\Debug\net6.0\Wassermelone.deps.json
+C:\Users\danie\Documents\GitHub\Wassermelone\bin\Debug\net6.0\Wassermelone.runtimeconfig.json
+C:\Users\danie\Documents\GitHub\Wassermelone\bin\Debug\net6.0\Wassermelone.dll
+C:\Users\danie\Documents\GitHub\Wassermelone\bin\Debug\net6.0\Wassermelone.pdb
+C:\Users\danie\Documents\GitHub\Wassermelone\obj\Debug\net6.0\Wassermelone.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\GitHub\Wassermelone\obj\Debug\net6.0\Wassermelone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\GitHub\Wassermelone\obj\Debug\net6.0\Wassermelone.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\GitHub\Wassermelone\obj\Debug\net6.0\Wassermelone.AssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\Wassermelone\obj\Debug\net6.0\Wassermelone.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\Wassermelone\obj\Debug\net6.0\Wassermelone.dll
+C:\Users\danie\Documents\GitHub\Wassermelone\obj\Debug\net6.0\refint\Wassermelone.dll
+C:\Users\danie\Documents\GitHub\Wassermelone\obj\Debug\net6.0\Wassermelone.pdb
+C:\Users\danie\Documents\GitHub\Wassermelone\obj\Debug\net6.0\Wassermelone.genruntimeconfig.cache
+C:\Users\danie\Documents\GitHub\Wassermelone\obj\Debug\net6.0\ref\Wassermelone.dll
